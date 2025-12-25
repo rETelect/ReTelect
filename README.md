@@ -1,47 +1,51 @@
-Hi there, I'm Majd najeh! 👋
-I am an aspiring Computer Science student dedicated to mastering the art of software development 
-and algorithmic problem-solving. My journey into programming 
-is driven by a passion for building scalable solutions and understanding the low-level mechanics of computing.
+# 🚀 Hi there, I'm Majd Najeh!
 
-🎓 Education & Certification
-HarvardX CS50x Graduate: Successfully completed Harvard University's rigorous introduction to computer science.
+I am an **aspiring Computer Science student** dedicated to mastering the art of software development and algorithmic problem-solving. My journey into programming is driven by a passion for building scalable solutions and understanding the low-level mechanics of computing.
 
-Core Skills: Mastered memory management in C, web development with Python/Flask, and database management with SQL.
+---
 
-Self-Driven Learner: Transitioned from basic logic to building full-stack applications through intensive independent study.
+## 🎓 Education & Certification
 
-🛠️ Technical Toolkit
-Languages: C, Python, SQL, JavaScript, HTML/CSS.
+* **HarvardX CS50x Graduate:** Successfully completed Harvard University's rigorous introduction to computer science.
+* **Core Skills:** Mastered memory management in C, web development with Python/Flask, and database management with SQL.
+* **Self-Driven Learner:** Transitioned from basic logic to building full-stack applications through intensive independent study.
 
-Frameworks & Tools: Flask, SQLite, Git, GitHub, VS Code.
+---
 
-Key Concepts: Data Structures, Algorithms, Memory Management, Web Security.
+## 🛠️ Technical Toolkit
 
-🚀 Featured Projects
-Taskmaster (Daily Task Management App):
+* **Languages:** `C`, `Python`, `SQL`, `JavaScript`, `HTML/CSS`
+* **Frameworks & Tools:** Flask, SQLite, Git, GitHub, VS Code
+* **Key Concepts:** Data Structures, Algorithms, Memory Management, Web Security
 
-Developed a full-stack web application designed to streamline daily productivity and task organization.
+---
 
-Tech Stack: Python, Flask, SQL, and Bootstrap.
+## 📌 Featured Projects
 
-Key Feature: Implemented a relational database to manage user-specific tasks with secure authentication and real-time updates.
+### 📝 Taskmaster (Daily Task Management App)
+* Developed a full-stack web application designed to streamline daily productivity and task organization.
+* **Tech Stack:** Python, Flask, SQL, and Bootstrap.
+* **Key Feature:** Implemented a relational database to manage user-specific tasks with secure authentication and real-time updates.
 
-Tideman (Ranked-Choice Voting System):
+### 🗳️ Tideman (Ranked-Choice Voting System)
+* A complex algorithmic project from **Harvard's CS50x** that simulates a "ranked-choice" voting system to find the "Condorcet winner."
+* **Key Achievement:** Developed recursion-based algorithms to detect cycles in locked pairs and managed complex data structures in C.
+* **Focus:** Algorithmic efficiency and rigorous logical problem-solving.
 
-A complex algorithmic project from Harvard's CS50x that simulates a "ranked-choice" voting system to find the "Condorcet winner."
+### 🏗️ Advanced Data Structures (In Progress)
+* Currently implementing core data structures from scratch to deepen my understanding of memory management and computational complexity.
+* **Focus:** Implementing Linked Lists, Hash Tables, and Binary Search Trees in C/C++.
 
-Key Achievement: Developed recursion-based algorithms to detect cycles in locked pairs and managed complex data structures in C.
+---
 
-Focus: Algorithmic efficiency and rigorous logical problem-solving.
+## 📊 GitHub Stats
 
-Advanced Data Structures project (In Progress):
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
-Currently implementing core data structures from scratch to deepen my understanding of memory management and computational complexity.
+---
 
-📊 GitHub Stats
+## 📫 How to reach me
 
-
-📫 How to reach me
-
-Email: najeh.mgeead@gmail.com 
-phone number: 911
+* **Email:** [najeh.mgeead@gmail.com](mailto:najeh.mgeead@gmail.com)
+* **Phone Number:** 911
