@@ -43,4 +43,4 @@ I am an **aspiring Computer Science student** dedicated to mastering the art of 
 * **Email:** [najeh.mgeead@gmail.com](mailto:najeh.mgeead@gmail.com)
 * **Phone Number:** 911
   ### 📜 Verified Certificate
-      [![CS50x Certificate](https://img.shields.io/badge/CS50x-Completed-blue?style=for-the-badge&logo=harvard)](https://certificates.cs50.io/03951de1-c34c-41c4-ac0e-  b82091cce68b.pdf?size=letter)
+[![CS50x Certificate](https://img.shields.io/badge/CS50x-Completed-blue?style=for-the-badge&logo=harvard)](https://certificates.cs50.io/03951de1-c34c-41c4-ac0e-b82091cce68b.pdf?size=letter)
