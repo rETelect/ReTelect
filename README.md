@@ -32,9 +32,6 @@ I am an **aspiring Computer Science student** dedicated to mastering the art of 
 * **Key Achievement:** Developed recursion-based algorithms to detect cycles in locked pairs and managed complex data structures in C.
 * **Focus:** Algorithmic efficiency and rigorous logical problem-solving.
 
-### 🏗️ Advanced Data Structures (In Progress)
-* Currently implementing core data structures from scratch to deepen my understanding of memory management and computational complexity.
-* **Focus:** Implementing Linked Lists, Hash Tables, and Binary Search Trees in C/C++.
 
 ---
 
