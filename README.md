@@ -43,4 +43,6 @@ I am an **aspiring Computer Science student** dedicated to mastering the art of 
 [![CS50x Certificate](https://img.shields.io/badge/CS50x-Completed-blue?style=for-the-badge&logo=harvard)](https://certificates.cs50.io/03951de1-c34c-41c4-ac0e-b82091cce68b.pdf?size=letter)
 
 
-![](https://komarev.com/ghpvc/?user=rETelect)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?user=rETelect&label=Profile%20Views&color=blue&style=flat" alt="rETelect" />
+</p>
