@@ -14,7 +14,8 @@ I am a **Software Engineer** dedicated to mastering software development and alg
 ## 🛠 Technical Toolkit
 
 * **Languages:** C, Python, SQL, JavaScript, TypeScript, HTML/CSS.
-* **Frameworks:** Flask, SQLite, Git, Node.js, React.
+* **Frameworks & Tools:** Flask, SQLite, Git, Node.js, React.
+* **OS & Environment:** Power user of **Linux (Pop!_OS)**, terminal-centric workflow.
 * **Concepts:** AI Video Processing, Data Structures, Algorithms.
 
 ---
@@ -23,7 +24,7 @@ I am a **Software Engineer** dedicated to mastering software development and alg
 
 ### 🎬 Silent Cutter (AI-Powered Video Editor)
 * **Hybrid Workflow:** Automatically removes silent parts from videos with a **Manual Mode** for fine-tuning cuts before processing.
-* **Tech Stack:** Python, AI Audio Analysiy.
+* **Tech Stack:** Python, AI Audio Analysis.
 
 ### 🕵️ Imposter Detector
 * **Technical Focus:** Algorithmic analysis and detection logic.
@@ -37,6 +38,7 @@ I am a **Software Engineer** dedicated to mastering software development and alg
 
 * **Email:** [najeh.mgeead@gmail.com](mailto:najeh.mgeead@gmail.com)
 * **GitHub:** [rETelect](https://github.com/rETelect)
+* **Phone Number:** 911
 
 ---
 
