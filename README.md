@@ -1,39 +1,35 @@
 # 🚀 Hi there, I'm Majd Najeh!
 
-I am a **Software Engineer** dedicated to mastering the art of software development and algorithmic problem-solving. My journey is driven by a passion for building scalable solutions, automating video workflows, and understanding the low-level mechanics of computing.
+I am a **Software Engineer** dedicated to mastering software development and algorithmic problem-solving. My journey is driven by building scalable solutions and understanding low-level computing mechanics.
 
 ---
 
 ## 🎓 Education & Certification
 
-* **HarvardX CS50x Graduate:** Successfully completed Harvard University's rigorous introduction to computer science.
-* **Core Skills:** Mastered memory management in C, web development with Python/Flask, and database management with SQL.
-* **Self-Driven Learner:** Transitioned from basic logic to building full-stack applications and AI-powered tools through intensive independent study.
+* **HarvardX CS50x Graduate:** Completed Harvard's introduction to computer science.
+* **Core Skills:** Memory management in C, Python/Flask, and SQL.
 
 ---
 
 ## 🛠 Technical Toolkit
 
-* **Languages:** `C`, `Python`, `SQL`, `JavaScript`, `TypeScript`, `HTML/CSS`
-* **Frameworks & Tools:** Flask, SQLite, Git, GitHub, VS Code, Node.js, React
-* **Key Concepts:** Data Structures, Algorithms, Memory Management, Web Security, AI Video Processing
+* **Languages:** C, Python, SQL, JavaScript, TypeScript, HTML/CSS.
+* **Frameworks:** Flask, SQLite, Git, Node.js, React.
+* **Concepts:** AI Video Processing, Data Structures, Algorithms.
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🎬 Silent Cutter (AI-Powered Video Editor)
-* **Tech Stack:** Python, AI Audio Analysis.
-* Hybrid Editing Workflow: Developed a specialized tool that automatically detects and removes silent parts from videos, featuring a Manual Mode that allows users to review and fine-tune cuts before processing.
-* **Impact:** Significantly reduces manual editing time for content creators.
+* **Hybrid Workflow:** Automatically removes silent parts from videos with a **Manual Mode** for fine-tuning cuts before processing.
+* **Tech Stack:** Python, AI Audio Analysiy.
 
 ### 🕵️ Imposter Detector
-* A technical project focused on detection logic and algorithmic analysis.
-* **Focus:** Logic implementation and pattern recognition.
+* **Technical Focus:** Algorithmic analysis and detection logic.
 
 ### 🗳️ Tideman (Ranked-Choice Voting System)
-* A complex algorithmic project from **Harvard's CS50x** that simulates a "ranked-choice" voting system to find the "Condorcet winner."
-* **Key Achievement:** Developed recursion-based algorithms to detect cycles in locked pairs and managed complex data structures in C.
+* **Achievement:** Developed recursion-based algorithms to detect cycles in C.
 
 ---
 
@@ -41,13 +37,9 @@ I am a **Software Engineer** dedicated to mastering the art of software developm
 
 * **Email:** [najeh.mgeead@gmail.com](mailto:najeh.mgeead@gmail.com)
 * **GitHub:** [rETelect](https://github.com/rETelect)
-* Phone Number:911
 
 ---
 
-### 📜 Verified Certificates
-[![CS50x Certificate](https://img.shields.io/badge/CS50x-Completed-blue?style=for-the-badge&logo=harvard)](https://certificates.cs50.io/03951de1-c34c-41c4-ac0e-b82091cce68b.pdf?size=letter)
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?user=rETelect&label=Profile%20Views&color=0078d4&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?user=rETelect&label=PROFILE%20VIEWS&color=blue&style=flat" alt="Profile Views" />
 </p>
