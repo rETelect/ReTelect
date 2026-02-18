@@ -23,8 +23,8 @@ I am a **Software Engineer** dedicated to mastering the art of software developm
 ## 📌 Featured Projects
 
 ### 🎬 Silent Cutter (AI-Powered Video Editor)
-* Developed a specialized tool that automatically detects and removes silent parts from videos to streamline the editing process.
 * **Tech Stack:** Python, AI Audio Analysis.
+* Hybrid Editing Workflow: Developed a specialized tool that automatically detects and removes silent parts from videos, featuring a Manual Mode that allows users to review and fine-tune cuts before processing.
 * **Impact:** Significantly reduces manual editing time for content creators.
 
 ### 🕵️ Imposter Detector
