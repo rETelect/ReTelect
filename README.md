@@ -42,6 +42,3 @@ I am a **Software Engineer** dedicated to mastering software development and alg
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?user=rETelect&label=PROFILE%20VIEWS&color=blue&style=flat" alt="Profile Views" />
-</p>
