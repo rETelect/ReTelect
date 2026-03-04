@@ -1,4 +1,4 @@
-# Majd Najeh | Senior Software Engineer & Technical Architect
+# Majd Najeh |  Software Engineer & Technical Architect
 
 Dedicated to mastering **Low-Level Mechanics**, **Distributed Systems**, and **Automated Media Pipelines**. My focus lies in bridging the gap between **Algorithmic Efficiency** and **Scalable Application Design**.
 
