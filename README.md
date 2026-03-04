@@ -1,42 +1,55 @@
-# 🚀 Hi there, I'm Majd Najeh!
+# Majd Najeh | Senior Software Engineer & Technical Architect
 
-I am a **Software Engineer** dedicated to mastering software development and algorithmic problem-solving. My journey is driven by building scalable solutions and understanding low-level computing mechanics.
-
----
-
-## 🎓 Education & Certification
-
-* **HarvardX CS50x Graduate:** Completed Harvard's introduction to computer science.
-* **Core Skills:** Memory management in C, Python/Flask, and SQL.
+Dedicated to mastering **Low-Level Mechanics**, **Distributed Systems**, and **Automated Media Pipelines**. My focus lies in bridging the gap between **Algorithmic Efficiency** and **Scalable Application Design**.
 
 ---
 
-## 🛠 Technical Toolkit
+### 🛠 Technical Ecosystem
 
-* **Languages:** C, Python, SQL, JavaScript, TypeScript, HTML/CSS.
-* **Frameworks & Tools:** Flask, SQLite, Git, Node.js, React.
-* **OS & Environment:** Power user of **Linux (Pop!_OS)**, terminal-centric workflow.
-* **Concepts:** AI Video Processing, Data Structures, Algorithms.
+#### **Core Engineering & Languages**
+* **Systems Programming:** C (Manual Memory Management, Pointer Arithmetic, Data Structures).
+* **Application Logic:** Python 3.x (Advanced Scripting, Context Managers, Decorators), TypeScript.
+* **Data Persistence:** SQL (SQLite, PostgreSQL), Schema Design, Query Optimization.
+* **Web Architecture:** Node.js, React, Flask (RESTful API Design).
 
----
+#### **Media & AI Engineering**
+* **Digital Signal Processing:** Automated Audio Thresholding, Frequency Analysis.
+* **Video Orchestration:** **FFmpeg** (Complex Filtergraphs, Codec Optimization, Hardware Acceleration).
+* **AI Integration:** Speech-to-Text (STT) Pipelines, Natural Language Processing (NLP) for content segmentation.
+* **Automation:** End-to-end Social Media Content Pipelines (Short-form Video Synthesis).
 
-## 📌 Featured Projects
-
-### 🎬 Silent Cutter (AI-Powered Video Editor)
-* **Hybrid Workflow:** Automatically removes silent parts from videos with a **Manual Mode** for fine-tuning cuts before processing.
-* **Tech Stack:** Python, AI Audio Analysis.
-
-### 🕵️ Imposter Detector
-* **Technical Focus:** Algorithmic analysis and detection logic.
-
-### 🗳️ Tideman (Ranked-Choice Voting System)
-* **Achievement:** Developed recursion-based algorithms to detect cycles in C.
+#### **DevOps & Environments**
+* **OS:** Linux Power User (Pop!_OS), Shell Scripting (Bash/Zsh), Terminal-Centric Workflows.
+* **Version Control:** Git (Branching Strategies, Rebase Workflows).
 
 ---
 
-## 📫 How to reach me
+### 📌 Architectural Case Studies
 
-* **Email:** [najeh.mgeead@gmail.com](mailto:najeh.mgeead@gmail.com)
+#### 🎬 Silent Cutter & Shorts Automation Suite
+**Technical Objective:** Eliminate manual editing latency through AI-driven audio analysis and automated visual framing.
+* **Algorithmic Logic:** Implemented a signal-to-noise ratio (SNR) analysis to detect "dead air" intervals.
+* **Automation Pipeline:** Engineered a multi-stage workflow: **Audio Extraction → Whisper Transcription → Dynamic Subtitle Generation → FFmpeg Concatenation**.
+* **Optimization:** Utilized non-linear editing (NLE) logic to allow for "Manual Overrides," maintaining state between automated cuts and user adjustments.
+
+#### 🗳️ Tideman (Ranked-Choice Voting System)
+**Technical Objective:** Solve the Condorcet Paradox using graph theory.
+* **Logic:** Developed a **Recursion-based Cycle Detection** algorithm in C.
+* **Complexity:** Managed **Adjacency Matrix** representations to ensure the "strength of victory" is prioritized without creating locked loops in a directed graph.
+
+#### 🕵️ Imposter Detector
+**Technical Objective:** Pattern recognition and anomaly detection within data streams.
+* **Focus:** Focused on **Time Complexity** optimization for real-time analysis of input sets.
+
+---
+
+### 🎓 Certifications
+* **HarvardX CS50x:** Introduction to Computer Science (Memory, Algorithms, Web Security).
+
+---
+
+### 📫 System Interfacing
+* **Email:** najeh.mgeead@gmail.com
 * **GitHub:** [rETelect](https://github.com/rETelect)
 * **Phone Number:** 911
 
